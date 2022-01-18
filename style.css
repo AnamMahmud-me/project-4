@@ -24,7 +24,7 @@ body .header {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 130vh;
+    height: 175vh;
     position: relative;
     top: 0;
     left: 0;
@@ -68,7 +68,7 @@ body .header {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    height: 55vh;
+    height: 60vh;
   }
 }
 
